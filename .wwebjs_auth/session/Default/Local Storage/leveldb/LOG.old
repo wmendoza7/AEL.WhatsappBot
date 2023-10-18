@@ -1,0 +1,7 @@
+2023/10/18-16:56:34.038 420 Reusing MANIFEST D:\AEL\AEL.WhatsappBot\AEL.WhatsappBot\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2023/10/18-16:56:34.093 420 Recovering log #7
+2023/10/18-16:56:34.094 420 Level-0 table #10: started
+2023/10/18-16:56:34.170 420 Level-0 table #10: 20414 bytes OK
+2023/10/18-16:56:34.171 420 Recovering log #11
+2023/10/18-16:56:34.183 420 Reusing old log D:\AEL\AEL.WhatsappBot\AEL.WhatsappBot\.wwebjs_auth\session\Default\Local Storage\leveldb/000011.log 
+2023/10/18-16:56:34.222 420 Delete type=0 #7
